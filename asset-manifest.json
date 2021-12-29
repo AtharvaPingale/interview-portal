@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/interview-portal/static/css/main.755ebd02.css",
-    "main.js": "/interview-portal/static/js/main.ecde0eac.js",
+    "main.js": "/interview-portal/static/js/main.8d0c5b84.js",
     "static/js/787.e32ba52f.chunk.js": "/interview-portal/static/js/787.e32ba52f.chunk.js",
     "index.html": "/interview-portal/index.html",
     "main.755ebd02.css.map": "/interview-portal/static/css/main.755ebd02.css.map",
-    "main.ecde0eac.js.map": "/interview-portal/static/js/main.ecde0eac.js.map",
+    "main.8d0c5b84.js.map": "/interview-portal/static/js/main.8d0c5b84.js.map",
     "787.e32ba52f.chunk.js.map": "/interview-portal/static/js/787.e32ba52f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.755ebd02.css",
-    "static/js/main.ecde0eac.js"
+    "static/js/main.8d0c5b84.js"
   ]
 }
